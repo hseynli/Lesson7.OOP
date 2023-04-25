@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson7.OOP\02.Properties\obj\Debug\net6.0\02.Properties.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson7.OOP\02.Properties\obj\Debug\net6.0\02.Properties.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson7.OOP\02.Properties\obj\Debug\net6.0\02.Properties.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson7.OOP\02.Properties\obj\Debug\net6.0\02.Properties.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson7.OOP\02.Properties\obj\Debug\net6.0\02.Properties.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson7.OOP\02.Properties\bin\Debug\net6.0\02.Properties.exe
+E:\Projects\VsProjects\Lesson7.OOP\02.Properties\bin\Debug\net6.0\02.Properties.deps.json
+E:\Projects\VsProjects\Lesson7.OOP\02.Properties\bin\Debug\net6.0\02.Properties.runtimeconfig.json
+E:\Projects\VsProjects\Lesson7.OOP\02.Properties\bin\Debug\net6.0\02.Properties.dll
+E:\Projects\VsProjects\Lesson7.OOP\02.Properties\bin\Debug\net6.0\02.Properties.pdb
+E:\Projects\VsProjects\Lesson7.OOP\02.Properties\obj\Debug\net6.0\02.Properties.dll
+E:\Projects\VsProjects\Lesson7.OOP\02.Properties\obj\Debug\net6.0\refint\02.Properties.dll
+E:\Projects\VsProjects\Lesson7.OOP\02.Properties\obj\Debug\net6.0\02.Properties.pdb
+E:\Projects\VsProjects\Lesson7.OOP\02.Properties\obj\Debug\net6.0\02.Properties.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson7.OOP\02.Properties\obj\Debug\net6.0\ref\02.Properties.dll
